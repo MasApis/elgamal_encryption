@@ -378,7 +378,7 @@ Proyek ini dibuat untuk tujuan **edukasi**, sehingga ada beberapa keterbatasan p
 Proyek ini dilisensikan di bawah **MIT License** — bebas digunakan, dimodifikasi, dan didistribusikan untuk keperluan apapun, termasuk komersial, selama menyertakan atribusi.
 
 ```
-MIT License © 2025 — [Nama Kamu]
+MIT License © 2025 — Abdul Hafidz, Adib Farhan Shiombing, Vito Hendriansyah
 ```
 
 ---
