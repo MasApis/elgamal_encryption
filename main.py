@@ -32,8 +32,8 @@ def generate_k(p):
 # ==========================================
 
 # Kita pakai p yang besar supaya muat nomor HP atau pesan angka panjang
-p = 83146949379 
-g = 2
+p = 18446744073709551557 
+g = 13
 
 print("=== PROGRAM ENKRIPSI ELGAMAL (BRO-VERSION) ===")
 print("1. Kirim Pesan Angka")
